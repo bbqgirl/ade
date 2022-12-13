@@ -1,0 +1,18 @@
+p {
+    color: greenyellow;
+}
+
+#big  {
+    font-size: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body  {
+     background-color: hotpink;
+     background-image: url(media/lemon.jpeg);
+}
+
+#center  {
+    margin: auto;
+    width: 400px;
+}
